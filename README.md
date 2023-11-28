@@ -1,14 +1,18 @@
-**Level 0**
+**Level 0** 
+
 Command: ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 **Level 0 → Level 1**: 
+
 Command: cat readme
 *Đọc file Readme
+
 Password : boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 **Level 1 → Level 2**
 Command: cat ./-
 *lệnh cat sẽ coi - là từ đồng nghĩa với stdin. Để tránh điều đó, cần cung cấp đường dẫn đầy đủ của tệp thay vì chỉ ghi tên tệp.
+
 Password : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 **Level 2 → Level 3**
