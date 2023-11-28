@@ -1,7 +1,3 @@
-kongwenbin
-https://bresleveloper.blogspot.com/2018/05/overthewire-bandit-walkthrough-just.html
-https://github.com/leegengyu/OverTheWire-Bandit
-
 **Level 0**
 Command: ssh bandit0@bandit.labs.overthewire.org -p 2220
 
